@@ -34,7 +34,7 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
-![screenshot-4](https://user-images.githubusercontent.com/114739107/204092812-bf393a92-5ff6-462b-a9a7-7e242ac18cee.png)
+![aboutus](https://user-images.githubusercontent.com/114739107/204093471-ff4aaeb6-bc04-4f9c-ada9-d475455bd932.png)
 
 
 ### Services -
